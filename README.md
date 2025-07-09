@@ -1,29 +1,34 @@
-# 👋 Hi, I'm Larbi 
+# 👋 Hi, I'm Larbi
 
 🤖 **AI/ML Developer in Training**  
 🎓 MSc CS @ IU Applied Sciences. Germany  
 🧱 I build intelligent systems from architecture to deployment  
-📊 Currently developing a Causal Event-Aware Sentiment Modeling for ETF Trend Prediction Using Options and News 
+📊 Currently developing a causal event-aware sentiment model for ETF trend prediction using options and news data
 
 ---
 
 ## 🧠 Current Focus
-- Causal Inference + D/ML Architecture 
+- Causal inference and deep/machine learning architectures  
 - Applying AI to financial forecasting and stock market behavior  
 - Event detection and sentiment analysis from real-time data  
 - Full-stack AI/ML: data → preprocessing → modeling → tuning → evaluation → deployment  
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript
-- **Libraries**: TensorFlow, Pytorch, Keras, scikit-learn, Pandas, NumPy, p
-- **Tools**: SQLite, Google Cloud NLP, yFinance, Matplotlib, VS Code
+- **Languages**: Python
+- **Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy  
+- **Tools**: SQLite, Google Cloud NLP, yFinance, Matplotlib, VS Code  
+
+## 🎯 Learning Targets
+- Deepening understanding of system design patterns for AI architectures  
+- Mastering C++ for high-performance model implementation  
+- Expanding proficiency in JavaScript for AI dashboarding and web deployment  
+- Learning Docker, FastAPI, and CI/CD for robust AI deployment pipelines  
+- Exploring cloud platforms (AWS, GCP) for scalable AI applications  
+- 
 
 ## 📫 Let’s Connect
-- Email: larbiramoul.it@gmail.com
-
+- Email: larbiramoul.it@gmail.com  
 
 ---
 
 > “From systems to signals, I turn AI ideas into engineered reality.”
-
-
