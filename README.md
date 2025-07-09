@@ -19,7 +19,8 @@
 - **Tools**: SQLite, Google Cloud NLP, yFinance, Matplotlib, VS Code  
 
 ## 🎯 Learning Targets
-- Deepening understanding of system design patterns for AI architectures  
+- Deepening understanding of system design patterns for AI architectures
+- Exploring the application of AI in robotics and autonomous systems   
 - Mastering C++ for high-performance model implementation  
 - Expanding proficiency in JavaScript for AI dashboarding and web deployment  
 - Learning Docker, FastAPI, and CI/CD for robust AI deployment pipelines  
