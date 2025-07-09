@@ -3,7 +3,7 @@
 🤖 **AI/ML Developer in Training**  
 🎓 MSc CS @ IU Applied Sciences. Germany  
 🧱 I build intelligent systems from architecture to deployment  
-📊 Currently developing a rCausal Event-Aware Sentiment Modeling for ETF Trend Prediction Using Options and News 
+📊 Currently developing a Causal Event-Aware Sentiment Modeling for ETF Trend Prediction Using Options and News 
 
 ---
 
