@@ -15,8 +15,10 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: Python
-- **Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy  
-- **Tools**: SQLite, Google Cloud NLP, yFinance, Matplotlib, VS Code  
+- **Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, SQlite, Matplotlib
+- **Frameworks:** Django REST Framework, React.js, FastAPI
+- **Tools & DevOps:** Git, GitHub, VS Code, CI/CD (GitHub Actions), Docker
+
 
 ## 🎯 Learning Targets
 - Deepening understanding of system design patterns for AI architectures
