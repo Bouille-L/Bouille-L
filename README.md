@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Larbi
 
-🤖 **AI/ML Developer   
-🎓 MSc CS @ IU Applied Sciences. Germany  
+🤖 AI/ML Developer   
+🎓 MSc Computer Science @ IU Applied Sciences. Germany  
 🧱 I build AI systems from architecture to deployment  
 
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: Python
-- **Libraries**: Keras, scikit-learn, Pandas, NumPy, SQlite, Matplotlib
+- **Libraries**: Keras, scikit-learn, Pandas, NumPy, SQkLite, Matplotlib
 - **Frameworks**: TensorFlow, PyTorch  
 
 
