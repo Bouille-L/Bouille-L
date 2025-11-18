@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Current Focus
-- Causal AI and 
+- Causal AI
 - ML/DL architectures  
 - Applying Causal AI to financial and stock market behavior  
 - Full-stack AI/ML: data → preprocessing → modeling → tuning → evaluation → deployment  
