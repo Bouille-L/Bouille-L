@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 - **Languages**: Python
 - **Libraries**: Keras, scikit-learn, Pandas, NumPy, SQlite, Matplotlib
-- **Frameworks:**TensorFlow, PyTorch  
+- **Frameworks**: TensorFlow, PyTorch  
 
 
 
