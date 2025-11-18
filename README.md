@@ -15,14 +15,14 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: Python
-- **Libraries**: TensorFlow, PyTorch, Keras, scikit-learn, Pandas, NumPy, SQlite, Matplotlib
-- **Frameworks:** Django REST Framework, React.js, FastAPI
-- **Tools & DevOps:** Git, GitHub, VS Code, CI/CD (GitHub Actions), Docker
+- **Libraries**: Keras, scikit-learn, Pandas, NumPy, SQlite, Matplotlib
+- **Frameworks:**TensorFlow, PyTorch  
+
 
 
 ## 🎯 Learning Targets
 - Deepening understanding of system design patterns for AI architectures
 - Exploring the application of AI in robotics and autonomous systems   
-- Mastering C++ for high-performance model implementation  
+  
 
 
